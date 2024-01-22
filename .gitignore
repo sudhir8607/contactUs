@@ -1,9 +1,8 @@
-# Node.js
+# Ignore node_modules directory
 node_modules/
 
-# Logs
-logs
-*.log
+# Ignore yarn.lock file
+yarn.lock
 
-# Environment variables
-.env
+# Ignore npm lock file
+package-lock.json
